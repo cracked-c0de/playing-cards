@@ -1,5 +1,5 @@
 {
-  "name": "@letele/playing-cards",
+  "name": "@cracked-c0de/playing-cards",
   "version": "0.1.0",
   "description": "react svg playing cards",
   "module": "dist/index.esm.js",
@@ -24,9 +24,9 @@
   "author": "Letele Motebang",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/letele/playing-cards/issues"
+    "url": "https://github.com/cracked-c0de/playing-cards/issues"
   },
-  "homepage": "https://github.com/letele/playing-cards#readme",
+  "homepage": "https://github.com/cracked-c0de/playing-cards#readme",
   "dependencies": {
     "@babel/runtime": "^7.19.0"
   },
